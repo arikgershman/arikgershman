@@ -56,4 +56,4 @@ This GitHub showcases my projects and analytical work, reflecting my journey in 
 
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arikgershman&layout=compact&theme=dark)]()
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arikgershman&theme=dark)]()
