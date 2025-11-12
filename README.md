@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arik Gershman!</h1>
 
-A rising senior at the University of Maryland, College Park, majoring in Computer Science with a minor in General Business. I'm passionate about leveraging data and technology to solve real-world problems, with a particular interest in Machine Learning as both a career path and a field of continuous learning.
+A senior at the University of Maryland, College Park, majoring in Computer Science with a minor in General Business. I'm passionate about leveraging data and technology to solve real-world problems, with a particular interest in Machine Learning as both a career path and a field of continuous learning.
 
 This GitHub showcases my projects and analytical work, reflecting my journey in computer science and data science.
 
@@ -35,6 +35,7 @@ This GitHub showcases my projects and analytical work, reflecting my journey in 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
