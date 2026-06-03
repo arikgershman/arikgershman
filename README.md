@@ -12,6 +12,13 @@ This GitHub showcases my projects and analytical work, reflecting my journey in 
 * Other: Financial Technology, AI Ethics & Regulations, Economics.
 
 ---
+### 🚀 What I've Been Working On
+
+*   **Client Self-Service Portal @ SOS Technology Group:** Currently developing an automated self-service platform in my role as a Sysops/Backend Engineer Intern. The portal focuses on streamlining client interactions and automating system processes to drastically improve operational efficiency and response times.
+*   **MassText CRM for Meor Maryland:** Engineered and deployed a full-stack iOS application for a non-profit organization to manage bulk SMS communications. I built the frontend natively in **Swift** and architected a custom backend server using **Python/Flask**, **SQLite**, **Nginx**, and **Gunicorn** hosted on **DigitalOcean**. To handle production messaging, I integrated the live **Twilio API**, successfully navigating A2P 10DLC registration to ensure compliant, real-world messaging throughput.
+*   **Database Systems Research:** Authored an in-depth research paper titled *"Evaluating Iceberg-Style Optimistic Concurrency Control for OLTP Workloads."* The paper analyzes geo-replicated transaction systems and compares the throughput, latency, and availability of MVCC and OCC alongside distributed architectures like Spanner and Calvin. [Read the paper on ResearchGate](https://doi.org/10.13140/RG.2.2.23976.12808)
+
+---
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arikgershman/)
